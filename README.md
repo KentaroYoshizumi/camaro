@@ -7,6 +7,8 @@
 
 フロントエンド　HTML CSS React.js
 バックエンド　Ruby on lails
+サーバー　puma, sinatra
+データベース　mysql
 インフラ　AWS Docker
 CI/CD CircleCI
 
